@@ -9,8 +9,8 @@ from email.mime.text import MIMEText
 
 SERVER = 'smtp-mail.outlook.com'
 PORT = 587
-SENDER = 'kevinryanrinaldi@stikom-bali.ac.id'
-RECEIVER = 'thisiskevinr@gmail.com'
+SENDER = 'email'
+RECEIVER = 'email'
 SUBJ = 'Tugas Network Programming kelas AC151'
 DATE = '25 May 2028 18:00:00 +0800'
 MSG = MIMEText('SCRIPT | 150010310')
