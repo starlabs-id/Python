@@ -11,7 +11,7 @@ SERVER = 'smtp-mail.outlook.com'
 PORT = 587
 SENDER = 'email'
 RECEIVER = 'email'
-SUBJ = 'Tugas Network Programming kelas AC151'
+SUBJ = 'Tugas Network Programming kelas XX151'
 DATE = '25 May 2028 18:00:00 +0800'
 MSG = MIMEText('SCRIPT | 150010310')
 
